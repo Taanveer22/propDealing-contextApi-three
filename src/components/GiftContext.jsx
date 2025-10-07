@@ -1,0 +1,5 @@
+// Context API declaretion
+
+import { createContext } from "react";
+
+export const GiftContext = createContext();

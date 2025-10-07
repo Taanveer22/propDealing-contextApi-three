@@ -1,6 +1,6 @@
 import Cousin from "./Cousin";
 
-const Uncle = ({asset}) => {
+const Uncle = ({ asset }) => {
   return (
     <div>
       <h1 className="text-2xl font-medium text-center">Uncle</h1>
